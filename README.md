@@ -13,6 +13,6 @@ Graduanda em Sistemas de Informação e técnica em Desenvolvimento de Sistemas,
 ![MAKE](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge) 
 ![Power Apps](https://img.shields.io/badge/power_apps-9C2F8F?style=for-the-badge) ![Power Automate](https://img.shields.io/badge/power_automate-104ECD?style=for-the-badge)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black) ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 ) 
 ![SQL](https://img.shields.io/badge/SQL-0078D7?style=for-the-badge&logoColor=white)
